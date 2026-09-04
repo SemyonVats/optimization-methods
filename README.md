@@ -70,11 +70,9 @@ python scripts/check_notebooks.py
 
 ```text
 optimization-methods-portfolio/
-├── .github/workflows/       # автоматическая структурная проверка
 ├── assets/                  # изображение для главной страницы
 ├── docs/                    # постановка, методы, результаты и запуск каждой работы
 ├── notebooks/               # четыре Jupyter Notebook
-├── scripts/                 # локальная проверка ноутбуков
 ├── .gitignore
 ├── README.md
 └── requirements.txt
